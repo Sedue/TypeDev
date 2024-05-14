@@ -1,1 +1,1 @@
-console.log("ola typedev")
+console.log("ola typedev!")
